@@ -1,5 +1,6 @@
-Esta es una prueba de texto
+Esta es una prueba de texto/continuo?
 
-Ademas se vana requerir cambios
+Ademas se vana requerir cambios.
+Ahora voy a agregar una línea
 
 Esperemos a ver qué sucede.
